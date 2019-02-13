@@ -28,7 +28,7 @@ OP-Z とは
 
 ---
 
-https://www.teenageengineering.com/
+[teenageengineering.com](https://www.teenageengineering.com/)
 
 ---
 
@@ -86,12 +86,7 @@ Unity 5.6 😮
 
 ---
 
-使い方のコツ
+まとめ
 
----
+[github.com/keijiro/VideolabTest](https://github.com/keijiro/VideolabTest)
 
-基本は Generic Out
-
----
-
-シェーダーに<br/>寄せてく
